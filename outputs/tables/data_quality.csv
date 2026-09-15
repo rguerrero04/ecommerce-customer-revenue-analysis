@@ -1,0 +1,2 @@
+raw_line_count,invoice_count,missing_customer_id_lines,cancellation_lines,nonpositive_quantity_lines,nonpositive_price_lines,valid_sales_lines
+541909,25900,135080,9288,10624,2517,397884

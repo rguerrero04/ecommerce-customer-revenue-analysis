@@ -1,0 +1,21 @@
+{
+  "revenue": 8911407.9,
+  "orders": 18562,
+  "customers": 4338,
+  "average_order_value": 480.09,
+  "repeat_customer_rate_pct": 65.63,
+  "cancelled_value": 896812.49,
+  "peak_complete_month": "2011-11",
+  "peak_complete_month_revenue": 1161817.38,
+  "one_order_customers": 1491,
+  "one_order_customer_pct": 34.37,
+  "median_days_to_second_order": 49,
+  "top_decile_revenue_share_pct": 61.38,
+  "top_three_deciles_cumulative_share_pct": 82.79,
+  "at_risk_customers": 655,
+  "at_risk_historical_revenue": 1149770.75,
+  "top_non_uk_market": "Germany",
+  "top_non_uk_market_revenue": 228867.14,
+  "top_product": "Regency Cakestand 3 Tier",
+  "top_product_revenue": 142592.95
+}

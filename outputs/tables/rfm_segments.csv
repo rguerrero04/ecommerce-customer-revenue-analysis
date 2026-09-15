@@ -1,0 +1,6 @@
+segment,customers,revenue,revenue_per_customer,average_recency_days,average_orders
+Champions,493,4463042.76,9052.83,6.8,15.5
+Loyal,1020,2362056.57,2315.74,22.2,5.3
+At Risk,655,1149770.75,1755.38,116.4,4.2
+Hibernating,1515,672095.4,443.63,185.7,1.2
+New / Promising,655,264442.42,403.73,24.1,1.5

@@ -1,0 +1,8 @@
+metric,value
+Raw transaction lines,541909
+Valid sales lines,397884
+Excluded lines,144025
+Missing customer ID lines,135080
+Cancellation lines,9288
+Nonpositive quantity lines,10624
+Nonpositive price lines,2517

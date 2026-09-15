@@ -1,0 +1,5 @@
+purchase_frequency,customers,revenue,revenue_per_customer
+1 order,1491,615564.71,412.85
+2-4 orders,1730,1945621.55,1124.64
+5-9 orders,726,1782238.76,2454.87
+10+ orders,391,4567982.88,11682.82
