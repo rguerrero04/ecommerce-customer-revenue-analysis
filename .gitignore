@@ -1,0 +1,8 @@
+data/raw/*
+data/processed/ecommerce.db
+data/processed/ecommerce.db-*
+!data/raw/.gitkeep
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+*.pyc
